@@ -1,0 +1,7 @@
+# Python-specific ignore patterns
+__pycache__/
+*.pyc
+
+#Ignore virtual environment
+/env
+
