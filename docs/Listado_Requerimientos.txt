@@ -1,0 +1,10 @@
+REQUERIMIENTOS
+
+El sistema debe ser intuitivo y facil de entender para el usuario
+El sistema debe permitir que los usuarios (pacientes) puedan agendar sus propias citas
+El sistema debe permitir consultar la disponibilidad de los médicos según su especialidad y horarios en tiempo real.
+El sistema debe permitir visualizar los horarios  disponibles en ese momento.
+El sistema debe permitir enviar la confirmacion de la cita por correo electronico, sms o una notificacion a traves de la aplicacion movil 
+El sistema debe permitir enviar un recordatorio de la cita dos dias antes 
+El sistema debe permitir generar reportes en formato excel 
+El sistema debe permitir cancelar las citas para liberar el horario.
